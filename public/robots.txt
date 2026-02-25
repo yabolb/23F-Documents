@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://archivo23f.vercel.app/sitemap.xml
+Sitemap: https://23-f-documents.vercel.app/sitemap.xml
