@@ -1,0 +1,21 @@
+{
+  "name": "Archivo 23-F",
+  "short_name": "Archivo 23F",
+  "description": "Documentos Desclasificados del Gobierno de España sobre el 23-F",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#3d3a35",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=23F",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=23F",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
