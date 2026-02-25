@@ -153,6 +153,11 @@ function App() {
       <footer className="text-center text-sepia-900/40 text-sm py-8 font-mono">
         <PayPalDonateButton buttonId="donate-button-footer" />
         <p>© {new Date().getFullYear()} Visualización Histórica • Archivo 23-F</p>
+        <div className="mt-4">
+          <a href="#" id="open_preferences_center" className="underline hover:text-sepia-900/60 transition-colors">
+            Preferencias de Cookies
+          </a>
+        </div>
       </footer>
     </div>
   );
